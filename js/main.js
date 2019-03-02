@@ -31,11 +31,7 @@ $(document).ready(function() {
  
   // Fancybox.js
 	 $('.fancybox').fancybox();
-	  
-  
-  
-  // BackStretch.js	 
-	 $("#masthead").backstretch("img/masthead@2x.jpg");
+	
 	 
 	 
 	 

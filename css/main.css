@@ -79,7 +79,7 @@ strong, b, .lead, .main table th, blockquote, .more, .cta a, .tweet, ul.paginati
    ========================================================================== */
 #masthead{
 	display: block;
-	height: 1050px;
+	height: 650px;
 }
 
 .cta h1{
@@ -96,7 +96,7 @@ strong, b, .lead, .main table th, blockquote, .more, .cta a, .tweet, ul.paginati
 	content: none;
 }
 .cta{
-	margin-top: 18%;
+	margin-top: 5%;
 	padding-bottom: 30px;
 	font-size: 18px;
 }
